@@ -1,0 +1,6 @@
+[submodule "boards"]
+	path = boards
+	url = https://github.com/rzeldent/platformio-espressif32-sunton.git
+[submodule "esp32_cyd_helloworld/boards"]
+	path = esp32_cyd_helloworld/boards
+	url = https://github.com/rzeldent/platformio-espressif32-sunton.git
